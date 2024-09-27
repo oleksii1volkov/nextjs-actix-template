@@ -1,0 +1,29 @@
+my-next-app/
+├── app/
+│   ├── about/
+│   │   └── page.tsx
+│   ├── contact/
+│   │   └── page.tsx
+│   ├── layout.tsx
+│   ├── page.tsx
+│   ├── globals.css
+│   ├── components/
+│   │   ├── Navbar.tsx
+│   │   └── Footer.tsx
+│   ├── context/
+│   │   └── ThemeProvider.tsx
+│   └── hooks/
+│       └── useCustomHook.ts
+├── public/
+│   ├── favicon.ico
+│   ├── images/
+│   │   └── logo.png
+├── styles/
+│   ├── Home.module.css
+│   └── About.module.css
+├── utils/
+│   └── helpers.ts
+├── next.config.js
+├── package.json
+├── tsconfig.json
+└── README.md
